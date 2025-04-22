@@ -1,11 +1,11 @@
 ## Hi there 👋🏾 Suerine Otieno here!
 Just an action-oriented guy with a passion for creating new experiences—both in life and through code.
 
-💻 I enjoy building scripts and web apps using Python. Check out some of my latest projects below!
-🚀 Currently diving into "Automate the Boring Stuff with Python" and always open to collaborative projects.
-📫 Reach me anytime at: suerineogaja@gmail.com
-🔭 The sky isn’t the limit—because there is no limit.
-😉 Hit that follow button and let’s grow together!
+- 💻 I enjoy building scripts and web apps using Python. Check out some of my latest projects below!
+- 🚀 Currently diving into "Automate the Boring Stuff with Python" and always open to collaborative projects.
+- 📫 Reach me anytime at: suerineogaja@gmail.com
+- 🔭 The sky isn’t the limit—because there is no limit.
+- 😉 Hit that follow button and let’s grow together!
 <!--
 **Suerine/Suerine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
