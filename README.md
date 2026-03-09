@@ -1,8 +1,8 @@
 ## Hi there 👋🏾 Suerine Otieno here!
 Just an action-oriented guy with a passion for creating new experiences—both in life and through code.
 
-- 💻 I enjoy building scripts and web apps using Python. Check out some of my latest projects below!
-- 🚀 Currently diving into "Automate the Boring Stuff with Python" and always open to collaborative projects.
+- 💻 CS student at USIU-Africa specialising in Forensic IT & Cybercrime. Building in Python, JavaScript, and Java. Interested in infrastructure automation, backend systems, and security.
+- 🔭 I’m currently working on GOF a full-stack e-commerce platform where customers can browse and purchase jerseys, boots, and footballs inspired by some of the world's greatest footballers. 
 - 📫 Reach me anytime at: suerineogaja@gmail.com
 - 🔭 The sky isn’t the limit—because there is no limit.
 - 😉 Hit that follow button and let’s grow together!
@@ -11,7 +11,7 @@ Just an action-oriented guy with a passion for creating new experiences—both i
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on GOF a full-stack e-commerce platform where customers can browse and purchase jerseys, boots, and footballs inspired by some of the world's greatest footballers. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
