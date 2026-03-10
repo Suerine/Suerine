@@ -3,7 +3,7 @@ Just an action-oriented guy with a passion for creating new experiences—both i
 
 - 💻 CS student at USIU-Africa specialising in Forensic IT & Cybercrime. Building in Python, JavaScript, and Java. Interested in infrastructure automation, backend systems, and security.
 - 🔭 I’m currently working on GOF a full-stack e-commerce platform where customers can browse and purchase jerseys, boots, and footballs inspired by some of the world's greatest footballers.
-- ⭐️ Checkout **my top 5 projects** on the stared page.
+- ⭐️ Checkout **my top 5 projects** on the stared page. → [01 – Reconnaissance](Findings/01-reconnaissance.md) 
 - 📫 Reach me anytime at: suerineogaja@gmail.com
 - 🔭 The sky isn’t the limit—because there is no limit.
 - 😉 Hit that follow button and let’s grow together!
